@@ -22,7 +22,7 @@ export const Features = () => {
             description="A cross-platform metagame app, turning your activities across web2 and web3 game into a rewarding adventure."
             title={
               <>
-                radi<b>nt</b>
+                radia<b>nt</b>
               </>
             }
           />
